@@ -1,0 +1,22 @@
+-
+  id: test_login001.1
+  detail : 新增號碼
+  screenshot : new_num
+  data:
+    pubid: 7352148
+    num: 202004300102030115171
+    area: 全国
+    type: 'N'
+  check :
+     - http://192.168.1.90:8880/publicnum//
+-
+  id: test_login001.2
+  detail : 新增號碼
+  screenshot : new_num
+  data:
+    pubid: 7352149
+    num: 202004300102030115171
+    area: 广东省
+    type: '1'
+  check :
+     - http://192.168.1.90:8880/publicnum//

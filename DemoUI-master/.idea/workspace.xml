@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9445e012-c576-4f45-92ca-b7f22c8c8640" name="Default Changelist" comment="python+selenium">
+      <change afterPath="$PROJECT_DIR$/.idea/DemoUI-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/setting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/user.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/chrome/chromedriver_linux_32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/chrome/chromedriver_linux_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/chrome/chromedriver_mac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/chrome/chromedriver_win.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/edge/MicrosoftWebDriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/gecko/geckodriver_linux_32" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/gecko/geckodriver_linux_64" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/gecko/geckodriver_mac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/gecko/geckodriver_win32.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/gecko/geckodriver_win64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/ie/IEDriverServer_win2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/drivers/ie/IEDriverServer_win64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/animal-sniffer-annotations-1.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/byte-buddy-1.8.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/checker-compat-qual-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-beanutils-1.9.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-codec-1.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-collections-3.2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-exec-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-io-2.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-lang-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-lang3-3.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-logging-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-net-3.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/commons-text-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/error_prone_annotations-2.1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/ezmorph-1.0.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/gson-2.8.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/guava-25.0-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/htmlunit-2.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/htmlunit-core-js-2.28.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/htmlunit-cssparser-1.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/htmlunit-driver-2.30.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/httpclient-4.5.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/httpcore-4.4.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/httpmime-4.5.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/j2objc-annotations-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jcip-annotations-1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jcommander-1.72.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jetty-client-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jetty-http-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jetty-io-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jetty-repacked-9.4.7.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jetty-util-9.4.8.v20171121.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jetty-xml-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/json-lib-2.4-jdk15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/jsr305-1.3.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/neko-htmlunit-2.30.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/okhttp-3.10.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/okio-1.14.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-api-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-chrome-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-edge-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-firefox-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-ie-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-java-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-opera-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-remote-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-safari-driver-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-server-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/selenium-support-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/serializer-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/snakeyaml-1.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/thinlet-2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/websocket-api-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/websocket-client-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/websocket-common-9.4.7.v20170914.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/xalan-2.7.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/xercesImpl-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/libs/xml-apis-1.4.01.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/log.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/Visgrid-1.24/visgrid-1.24.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/selenium-server-standalone-2.53.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-01-28 01_57_28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2019-01-28 01_57_36.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_42_17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_42_20.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_43_34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_45_13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_45_25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_45_55.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_47_05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-29 11_48_54.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_34_02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_34_06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_34_15.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_39_24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_39_28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_45_27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_45_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_50_13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_50_17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_52_37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_52_41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_54_02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_54_05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_55_53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_55_57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_56_46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 16_56_49.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_06_21.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_06_25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_10_43.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_10_47.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_15_48.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_17_25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_18_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_21_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_21_34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_24_01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_26_19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_26_23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_28_28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_30_13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_30_17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_31_44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_31_47.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_32_52.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_40_54.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-04-30 17_44_48.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_08_40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_14_33.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_16_05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_16_33.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_16_36.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_17_03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_19_04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_19_08.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_21_24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_21_27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_23_04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_23_07.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_29_54.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_30_52.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_33_31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_33_35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_35_46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_37_55.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_39_12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_40_34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_40_38.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_41_41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_43_13.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_44_38.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_47_28.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_48_24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 10_50_25.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_03_27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_07_01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_11_06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_11_09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_11_57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_17_03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_17_07.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_18_50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_18_53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_21_29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_28_06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_28_10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_28_32.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_30_57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_54_26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_56_02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_56_06.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_58_58.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_59_02.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 11_59_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 12_01_12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 12_04_37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-06 12_08_56.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 10_51_10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 10_51_14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 10_51_29.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 10_59_35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 10_59_50.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_10_45.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_10_53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_14_19.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_14_27.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_20_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_20_34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_20_53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_21_26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_21_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_24_14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_25_10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_25_56.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_26_44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_32_05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_32_09.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_46_44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_46_55.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 11_58_42.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_05_38.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_05_41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_14_14.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_14_18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_17_31.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_17_35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_25_56.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_26_00.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_32_37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_32_41.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_33_35.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-07 12_33_40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_04_12.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_04_17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_13_51.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_15_03.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_17_30.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_17_34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_19_00.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_19_04.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_19_48.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_21_23.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_21_26.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_21_44.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_39_37.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_39_40.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_42_01.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_42_05.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_42_24.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_44_53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_44_57.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_45_18.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_47_53.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_47_56.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 17_48_17.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 18_09_34.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/2020-05-08 18_09_46.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/GetYaml.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/myunit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/newReport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/screenshot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/models/sendmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page_obj/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page_obj/delNumPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page_obj/loginHubuPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page_obj/loginPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page_obj/newNumPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/page_obj/setupPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-01-24 00_03_09result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-01-24 23_18_07result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2019-01-28 01_20_25result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_18_58result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_23_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_28_16result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_29_54result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_32_10result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_35_43result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_36_56result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_37_11result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_42_17result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_43_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_45_10result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_45_21result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_45_52result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_47_02result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-29 11_48_50result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_34_03result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_39_24result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_45_27result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_50_13result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_52_37result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_54_02result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_55_53result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 16_56_46result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_06_21result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_10_43result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_15_44result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_17_21result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_18_27result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_21_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_23_57result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_26_19result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_28_25result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_30_13result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_31_44result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_32_49result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_40_50result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-04-30 17_44_44result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_08_37result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_14_29result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_16_02result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_16_33result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_17_00result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_19_04result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_21_24result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_23_04result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_29_51result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_30_49result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_33_31result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_35_43result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_37_52result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_39_08result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_40_34result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_41_28result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_43_09result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_44_35result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_47_24result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_48_21result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 10_50_21result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_03_24result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_06_57result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_11_06result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_11_54result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_17_04result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_18_50result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_21_25result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_28_06result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_28_28result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_30_54result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_54_22result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_56_02result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_58_58result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 11_59_26result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 12_01_09result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 12_04_33result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-06 12_08_52result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 10_51_10result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 10_59_32result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_10_41result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_14_16result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_20_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_21_27result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_24_11result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_25_06result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_25_53result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_26_40result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_32_05result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_46_22result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_46_41result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 11_58_39result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 12_05_38result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 12_14_15result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 12_17_32result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 12_25_57result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 12_32_38result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-07 12_33_36result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_04_13result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_13_48result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_14_59result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_17_31result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_19_00result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_19_45result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_21_23result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_39_37result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_42_01result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_44_53result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 17_47_53result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/2020-05-08 18_09_30result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/login.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/name_empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/name_sign_success.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/pawd_empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/pawd_error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/phone_empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/phone_error.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/phone_pawd_empty.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot/phone_pawd_success.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run_demoui_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/frame.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/html1.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/html2.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/html3.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/jietu.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/share/screeshots/mail.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/startup.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/delNum_hubu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/login_hubu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/login_sta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/newNum_hubu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testcase/setup_sta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/delNum_data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/loginHubu_data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/login_data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/newNum_data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testdata/setup_data.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testyaml/delNum.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testyaml/login.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testyaml/loginHubu.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testyaml/newNum.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testyaml/setup.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PyCharmWorkSpace.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PyCharmWorkSpace.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/dingdingTest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test/linuxExist.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_demoui_test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="32" column="57" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package/HTMLTestRunner.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="895" column="14" selection-start-line="895" selection-start-column="14" selection-end-line="895" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testdata/delNum_data.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/page_obj/newNumPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="115" column="35" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/delNum_hubu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/page_obj/delNumPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="365">
+              <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testyaml/delNum.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="621">
+              <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>getyaml</find>
+      <find>server_hostname</find>
+      <find>失败</find>
+      <find>print(sys.stderr</find>
+      <find>抽屉新热榜登录测试</find>
+      <find>add_jieruma_Input</find>
+      <find>======================</find>
+      <find>treeDemo0_1_a</find>
+      <find>element_info</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/public/page_obj/loginPage.py" />
+        <option value="$PROJECT_DIR$/testyaml/login.yaml" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/testcase/setup_sta.py" />
+        <option value="$PROJECT_DIR$/database/user.ini" />
+        <option value="$PROJECT_DIR$/public/models/sendmail.py" />
+        <option value="$PROJECT_DIR$/package/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/public/models/driver.py" />
+        <option value="$PROJECT_DIR$/testdata/loginHubu_data.yaml" />
+        <option value="$PROJECT_DIR$/testcase/newNum_sta.py" />
+        <option value="$PROJECT_DIR$/testyaml/loginHubu.yaml" />
+        <option value="$PROJECT_DIR$/public/page_obj/loginHubuPage.py" />
+        <option value="$PROJECT_DIR$/testcase/login_hubu.py" />
+        <option value="$PROJECT_DIR$/testcase/login_sta.py" />
+        <option value="$PROJECT_DIR$/public/page_obj/base.py" />
+        <option value="$PROJECT_DIR$/public/models/test.py" />
+        <option value="$PROJECT_DIR$/testcase/newNum_hubu.py" />
+        <option value="$PROJECT_DIR$/testyaml/newNum.yaml" />
+        <option value="$PROJECT_DIR$/public/page_obj/newNumPage.py" />
+        <option value="$PROJECT_DIR$/testdata/newNum_data.yaml" />
+        <option value="$PROJECT_DIR$/testyaml/delNum.yaml" />
+        <option value="$PROJECT_DIR$/testdata/delNum_data.yaml" />
+        <option value="$PROJECT_DIR$/testcase/delNum_hubu.py" />
+        <option value="$PROJECT_DIR$/public/page_obj/delNumPage.py" />
+        <option value="$PROJECT_DIR$/run_demoui_test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/DemoUI-master.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="415" />
+    <option name="y" value="65" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="package" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="page_obj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="share" type="462c0819:PsiDirectoryNode" />
+              <item name="screeshots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testdata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DemoUI-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DemoUI-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testyaml" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/page_obj" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\PyCharmWorkSpace\DemoUI-master\public\page_obj" />
+      <recent name="H:\PyCharmWorkSpace\DemoUI-master\testcase" />
+      <recent name="H:\PyCharmWorkSpace\DemoUI-master\testdata" />
+      <recent name="H:\PyCharmWorkSpace\DemoUI-master\testyaml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\PyCharmWorkSpace\DemoUI-master\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_demoui_test">
+    <configuration name="run_demoui_test" type="PythonConfigurationType" factoryName="Python" temporary="true" show_console_on_std_err="true" show_console_on_std_out="true">
+      <module name="DemoUI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_demoui_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DemoUI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/public/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/public/models/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DemoUI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.run_demoui_test" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_demoui_test" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9445e012-c576-4f45-92ca-b7f22c8c8640" name="Default Changelist" comment="" />
+      <created>1584327573525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584327573525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17913593" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.036876354" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20173536" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="TODO" order="6" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.329718" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="python+selenium" />
+    <option name="LAST_COMMIT_MESSAGE" value="python+selenium" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/public/page_obj/newNumPage.py</url>
+          <line>155</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="&quot;//*[@id=&quot; + '-'.join(no_pass_id_list) + &quot;]/td[2]/div/input&quot;" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>&quot;//*[@id=&quot; + '-'.join(no_pass_id_list) + &quot;]/td[2]/div/input&quot;</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.find_element(*self.choose_no_pass).get_attribute('id')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>ii</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/pickle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="1616" column="44" selection-start-line="1616" selection-start-column="38" selection-end-line="1616" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/lib2to3/pgen2/grammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="107" column="25" selection-start-line="107" selection-start-column="25" selection-end-line="107" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="248" column="8" selection-start-line="248" selection-start-column="8" selection-end-line="248" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/myunit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/newReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/screenshot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/user.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="11" selection-start-line="2" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/sendmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/driver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="21" column="108" selection-start-line="21" selection-start-column="108" selection-end-line="21" selection-end-column="108" />
+          <folding>
+            <element signature="e#69#106#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/setup_data.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/login_data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1431">
+          <caret line="53" column="10" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testyaml/setup.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="48" column="34" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/page_obj/setupPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testyaml/login.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="33" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/setup_sta.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="59" column="38" selection-start-line="59" selection-start-column="8" selection-end-line="59" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/login_hubu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="29" column="11" lean-forward="true" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/login_sta.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/setting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4185">
+          <caret line="797" column="8" selection-start-line="797" selection-start-column="8" selection-end-line="797" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/loginHubu_data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/page_obj/loginHubuPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="71" column="29" lean-forward="true" selection-start-line="71" selection-start-column="29" selection-end-line="71" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="240" selection-start-line="240" selection-end-line="240" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/models/GetYaml.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/page_obj/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/page_obj/loginPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="81" column="16" selection-start-line="79" selection-start-column="8" selection-end-line="81" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testyaml/newNum.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="99" column="20" lean-forward="true" selection-start-line="95" selection-start-column="6" selection-end-line="99" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/newNum_hubu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="60" column="46" lean-forward="true" selection-start-line="60" selection-start-column="46" selection-end-line="60" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testyaml/loginHubu.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="58" selection-end-line="18" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/newNum_data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" selection-start-line="6" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testdata/delNum_data.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testyaml/delNum.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="44" column="18" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/page_obj/newNumPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="115" column="35" selection-start-line="115" selection-start-column="29" selection-end-line="115" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/page_obj/delNumPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="88" lean-forward="true" selection-start-line="88" selection-end-line="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/delNum_hubu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_demoui_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="32" column="57" selection-start-line="32" selection-start-column="46" selection-end-line="32" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package/HTMLTestRunner.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="895" column="14" selection-start-line="895" selection-start-column="14" selection-end-line="895" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

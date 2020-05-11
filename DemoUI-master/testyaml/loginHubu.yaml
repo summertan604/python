@@ -1,0 +1,19 @@
+testinfo:
+      - id: test_login001
+        title: 登录测试
+        info: 登录户部
+testcase:
+      - element_info: username
+        find_type: name
+        operate_type: send_keys
+        info: 输入账号
+      - element_info: password
+        find_type: name
+        operate_type: send_keys
+        info: 输入密码
+      - element_info: login_submit
+        find_type: id
+        operate_type: click
+        info: 单击登录按钮
+check:
+      - element_info: http://192.168.1.90:8880/publicnum//

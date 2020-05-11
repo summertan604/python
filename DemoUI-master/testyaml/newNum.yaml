@@ -1,0 +1,106 @@
+testinfo:
+      - id: test_login002
+        title: 新增
+        info: 新增號碼
+testcase:
+      #簽名統計
+      - element_info: //div[text()='签名统计']
+        find_type: xpath
+        operate_type: perform
+        info: 鼠标悬浮在签名统计
+      #新增接入碼
+      - element_info: a_addNum
+        find_type: id
+        operate_type: click
+        info: 点击新增接入码
+      #輸入公眾號
+      - element_info: //input[@class='pubNameInput span2']
+        find_type: xpath
+        operate_type: send_keys
+        info: 输入公众号
+      #查詢按鈕
+      - element_info: //input[@class='pubNameInput span2']/following-sibling::button
+        find_type: xpath
+        operate_type: click
+        info: 单击查询按钮
+      #選擇查詢結果
+      - element_info: //span[@class='pubcontent']
+        find_type: xpath
+        operate_type: click
+        info: 选择查询结果
+      #新增接入碼
+      - element_info: //button[text()='新增接入码']
+        find_type: xpath
+        operate_type: click
+        info: 单击新增接入码按钮
+      #輸入接入碼
+      - element_info: add_receive_num
+        find_type: id
+        operate_type: send_keys
+        info: 输入新增接入码
+      #单击區域框
+      - element_info: treeDemo0Sel
+        find_type: id
+        operate_type: click
+        info: 单击区域框
+      #選擇區域
+#      - element_info: treeDemo0Sel
+#        find_type: id
+#        operate_type: click
+#        info: 单击区域框
+      #選擇上線方式
+      - element_info: onlineTypeSel
+        find_type: id
+        operate_type: click
+        info: 选择上线方式
+      #下一步
+      - element_info: m-n-btn-next-jie
+        find_type: id
+        operate_type: click
+        info: 单击下一步按钮
+      #确定
+      - element_info: //*[@id="box_wind_"]/center/p[1]
+        find_type: xpath
+        operate_type: click
+        info: 确定
+      #查询新增号码
+      - element_info: muti_search
+        find_type: id
+        operate_type: send_keys
+        info: 查询新增号码
+#      #数据状态选择框
+#      - element_info: //*[@id="tb"]/span[1]/span/a
+#        find_type: xpath
+#        operate_type: click
+#        info: 数据状态选择框
+#      #选择未验证
+#      - element_info: //*[@id="_easyui_combobox_i1_2"]
+#        find_type: xpath
+#        operate_type: click
+#        info: 选择未验证
+      #点击查找按钮
+      - element_info: //button[text()='查找']
+        find_type: xpath
+        operate_type: click
+        info: 点击查找
+      #全选号码
+      - element_info: //div[@class='datagrid-header-check']/input
+        find_type: xpath
+        operate_type: click
+        info: 全选号码
+      #验证通过
+      - element_info: //span[text()='验证通过']
+        find_type: xpath
+        operate_type: click
+        info: 验证通过
+#      #选择已验证
+#      - element_info: //*[@id="_easyui_combobox_i1_4"]
+#        find_type: xpath
+#        operate_type: click
+#        info: 选择已验证
+      #设为启用
+      - element_info: //span[text()='设为启用']
+        find_type: xpath
+        operate_type: click
+        info: 设为启用
+

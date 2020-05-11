@@ -1,0 +1,9 @@
+-
+  id: test_login001.1
+  detail : 登录
+  screenshot : login
+  data:
+    phone: rongwenfeng
+    password: 123456
+  check :
+     - http://192.168.1.90:8880/publicnum//
